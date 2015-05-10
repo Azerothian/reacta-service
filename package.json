@@ -1,0 +1,32 @@
+{
+  "name": "reacta-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^2.9.25",
+    "deepmerge": "^0.2.7",
+    "native-or-bluebird": "^1.2.0"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-coffee-react": "^2.4.1",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-copy": "^0.8.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-install-dependencies": "^0.2.0"
+  },
+  "bugs": {
+    "url": "https://github.com/Azerothian/reacta-service/issues"
+  },
+  "homepage": "https://github.com/Azerothian/reacta-service",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Azerothian/reacta-service.git"
+  }
+}
